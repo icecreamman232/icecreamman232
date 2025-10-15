@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Stephen Ho</h1>
-<h3 align="left">A game developer from Viet Nam</h3>
+<h3 align="left">A game developer from Sài Gòn</h3>
 
 ## Getting know about me below!
 📫 [Email](stephen.ho.232@gmail.com)\
